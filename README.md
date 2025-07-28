@@ -1,5 +1,5 @@
 # Data-Viz-With-Augmented-Reality-Project-Demos-
-links to my data visualization augmented reality video demos
+links to my augmented reality data visualization demos
 
 [![Watch the video](https://github.com/miano-kamuru/Data-Viz-With-Augmented-Reality-Project-Demos-/blob/main/screenshot_1.png)](https://www.artstation.com/artwork/nJ6JW1)
 [![Watch the video](https://github.com/miano-kamuru/Data-Viz-With-Augmented-Reality-Project-Demos-/blob/main/screenshot_2.png)](https://www.artstation.com/artwork/nJbzzX)
